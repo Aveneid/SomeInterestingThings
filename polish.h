@@ -1,7 +1,7 @@
 /**
 *	POLISH TRANSLATION PACK
 *	KEYWORDS FROM C++
-*	
+*	 
 *	BY AVENEID 2019
 **/
 #define	dla	for
